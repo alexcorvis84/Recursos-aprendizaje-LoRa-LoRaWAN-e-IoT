@@ -13,4 +13,4 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 
 - [Curso Online - Protocolo de Comunicación LoRa y LoRaWAN](https://electroniccats.com/store/lora-y-lorawan): curso **en español** para conocer el protocolo de comunicación Lora y LoraWAN. Aprenderás desde los conceptos básicos hasta la realización de prácticas y un proyecto final que te ayudará a comprender mejor este interesante campo de comunicaciones. Se incluye un Kit que contiene la placa BastWAN.
 
-![Electronic Cats: LoRa & LoRaWAN](images/curso_lora_lorawan-electronic_cats.jpg)
+![Electronic Cats: LoRa & LoRaWAN](images/curso_lora_lorawan-electronic_cats.png)
