@@ -21,7 +21,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - 🇬🇧 [LoRaWAN Crash Course](https://youtu.be/KFswTNjynEI) de [Gonzalo Casas](https://twitter.com/gnz)
 - 🇬🇧 [Everything you need to know about LoRaWAN in 60 minutes](https://youtu.be/ZsVhYiX4_6o) de [The Things Network](https://twitter.com/thethingsntwrk)
 - 🇪🇸 Lista de reproducción de [Introducción a LoRa/LoRaWAN](https://youtu.be/qs7Lz9g-mgg) creada por [Biblioman](https://twitter.com/biblioman09/)
-- 🇬🇧 Lista de reprodución sobre LoRa, LoraWAN y Sigfox de [Andreas Spiess](https://www.youtube.com/watch?v=hMOwbNUpDQA&list=PL3XBzmAj53Rkkogh-lti58h_GkhzU1n7U)
+- 🇬🇧 Lista de reprodución sobre LoRa, LoRaWAN y Sigfox de [Andreas Spiess](https://www.youtube.com/watch?v=hMOwbNUpDQA&list=PL3XBzmAj53Rkkogh-lti58h_GkhzU1n7U)
 
 
 ## Redes LoRaWAN comunitarias abiertas más conocidas
