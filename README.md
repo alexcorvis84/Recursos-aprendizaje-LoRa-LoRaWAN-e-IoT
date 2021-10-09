@@ -22,6 +22,9 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - 🇬🇧 [Everything you need to know about LoRaWAN in 60 minutes](https://youtu.be/ZsVhYiX4_6o) de [The Things Network](https://twitter.com/thethingsntwrk)
 - 🇪🇸 Lista de reproducción de [Introducción a LoRa/LoRaWAN](https://youtu.be/qs7Lz9g-mgg) creada por [Biblioman](https://twitter.com/biblioman09/)
 - 🇬🇧 Lista de reproducción sobre LoRa, LoRaWAN y Sigfox de [Andreas Spiess](https://www.youtube.com/watch?v=hMOwbNUpDQA&list=PL3XBzmAj53Rkkogh-lti58h_GkhzU1n7U)
+- 🇬🇧 [LoRaWAN 101 for Engineers (Multitech)](https://www.youtube.com/watch?v=e1BV7gOQb14&pp=ugMICgJlcxABGAE%3D)
+- 🇬🇧 [The Things Stack - How To?](https://www.youtube.com/watch?v=trNIzIf3TZo&list=PLM8eOeiKY7JVFIn2lR5-HVHY04hySwNq5)
+- 🇬🇧 The Things Conference [2018](https://www.youtube.com/watch?v=koX_1Zw3HoE&list=PLM8eOeiKY7JUhIyxWWU2-qziejDbBg-pf), [2019](https://www.youtube.com/watch?v=HJFkV8qqhr4&list=PLM8eOeiKY7JWtuWPoTPxYjkvgOZZ81vkb), [2020](https://www.youtube.com/watch?v=ThYilMcrYp8&list=PLM8eOeiKY7JV5KMwomW4cJrKB42ItPyey), [2021](https://www.youtube.com/watch?v=ZsVhYiX4_6o&list=PLM8eOeiKY7JUPeu23SJ3TPY9BfagiBFIT)
 
 ## Redes LoRaWAN comunitarias abiertas más conocidas
 - [The Things Network](https://www.thethingsnetwork.org/)
@@ -46,5 +49,4 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [ThingSpeak](https://thingspeak.com/)
 
 ## Herramientas
-
 - [Herramienta de cálculo de tiempo en aire](https://avbentem.github.io/airtime-calculator/ttn/eu868)
