@@ -42,6 +42,8 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [AdafruitIO](https://io.adafruit.com/)
 - [Akenza.io](https://akenza.io/)
 - [Arduino IOT Cloud](https://create.arduino.cc/iot/things)
+- [Amazon AWS IoT](https://aws.amazon.com/es/iot/)
+- [Microsoft Azure IoT](https://azure.microsoft.com/es-es/overview/iot/#overview)
 - [Balena.io](https://www.balena.io/)
 - [Cayenne MyDevice](https://mydevices.com/platform/)
 - [Datacake](https://datacake.co/)
