@@ -36,9 +36,11 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - Parámetros regionales de LoRaWAN [v1.0.1](https://lora-alliance.org/resource_hub/rp2-101-lorawan-regional-parameters-2/) / [v1.0.2rB](https://lora-alliance.org/resource_hub/lorawan-regional-parameters-v1-0-2rb/) / [RP2-1.0.2](https://lora-alliance.org/resource_hub/rp2-102-lorawan-regional-parameters/) / [v1.0.3](https://lora-alliance.org/resource_hub/rp2-1-0-3-lorawan-regional-parameters/)
 - [Mapa de Operadores y cobertura de LoRaWAN](https://lora-alliance.org/lorawan-coverage/)
 
-## Plataformas IOT
+## 🏭 Plataformas IOT
 - [AdafruitIO](https://io.adafruit.com/)
+- [Akenza.io](https://akenza.io/)
 - [Arduino IOT Cloud](https://create.arduino.cc/iot/things)
+- [Balena.io](https://www.balena.io/)
 - [Cayenne MyDevice](https://mydevices.com/platform/)
 - [Datacake](https://datacake.co/)
 - [Losant](https://www.losant.com/)
@@ -49,15 +51,15 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [ThingSpeak](https://thingspeak.com/)
 - [Ubidots](https://ubidots.com/)
 
-## Calculadoras LoRaWAN para cálculo de tiempo en aire
+## 🖩 Calculadoras LoRaWAN para cálculo de tiempo en aire
 - [Airtime-calculator](https://avbentem.github.io/airtime-calculator/ttn/eu868) de [Arjan](https://github.com/avbentem)
 - [The Things Network](https://www.thethingsnetwork.org/airtime-calculator)
 - [RF Wireless World](https://www.rfwireless-world.com/calculators/LoRaWAN-Airtime-calculator.html)
 
-## Open-source LoRaWAN Network Server Stack 
+## 🖥️ Open-source LoRaWAN Network Server Stack 
 - [ChirpStack](https://www.chirpstack.io/) de [Orne Brocaar](https://twitter.com/brocaar)
 
-## 👥 Comunidades The Things Network en España :es:
+## 👥 Comunidades The Things Network en España
 
 - [Mapa de las comunidades](https://www.thethingsnetwork.org/community) existentes para ponerse en contacto con ellas
 
@@ -65,7 +67,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 
 ## 📱 Lista de canales (no oficiales) de Telegram
 
-### The Things Network
+### The Things Network (TTN)
 - [Grupo sobre comunicaciones LoRa/LoRaWAN](https://t.me/LoRa_LoRaWAN)
 - [Grupo comunidades TTN](https://t.me/joinchat/STaRI2m7iLhq3Rel)
 
@@ -77,7 +79,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [LilyGo](http://www.lilygo.cn/products.aspx?TypeId=50060&FId=t3:50060:3)
 - [Rak Wireless](https://www.rakwireless.com/en-us)
 
-## 🗺️ Proyectos de Mappers 📍 LoRaWAN
+## 🗺️ Proyectos DIY de Mappers 📍 LoRaWAN
 - Trackers compatibles con la placa TTGo T-Beam
     - [Kizniche](https://github.com/kizniche/ttgo-tbeam-ttn-tracker)
     - [Hottimuc](https://github.com/hottimuc/Lora-TTNMapper-T-Beam)
@@ -85,13 +87,13 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
     - [Hkicko](https://github.com/hkicko/CubeCell-GPS-Helium-Mapper)
     - [Tekk](https://github.com/tekk/TTGO-T-Beam-Car-Tracker)
     - [Jas Williams](https://github.com/jas-williams/CubeCell-Helium-Mapper)
-- Trackers DIY basados en Arduino
+- Trackers DIY basados en "Arduino"
     - [Tracker básico con LCD](https://github.com/G4lile0/LoRa_LCD_TTN_Mapper) de [@G4lile0](https://twitter.com/g4lile0)
     - [Tracker basado en Arduino Mini Pro + GPS + RFM95W](https://github.com/akirasan/LoRaWAN-tracker-TTNmapper) de [@akirasan](https://twitter.com/akirasan)
     - [Tracker basado en RAK4631](https://github.com/arkieguy/RAK4631-Helium-Mapper)
 - Tracker basado en Seedstudio Wio Terminal
     - [Disk91](https://github.com/disk91/WioLoRaWANFieldTester#wio-terminal-lorawan-field-tester)
 
-## Repositorios con + información interesante ℹ️
+## 🎰 BONUS: ℹ️ Repositorios con + información interesante
 - [Recursos del Grupo: Comunicaciones LoRa de larga distancia](https://github.com/G4lile0/Comunicaciones_LoRa)
 - [Awesome LoRa & LoRaWAN](https://github.com/mcicolella/awesome-lora-lorawan)
