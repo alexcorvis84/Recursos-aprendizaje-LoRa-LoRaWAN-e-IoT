@@ -31,10 +31,12 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [Helium - The People's Network](https://www.helium.com/)
 - [LORIOT](https://www.loriot.io/)
 
-## LoRa Alliance (enlaces importantes)
+## 📡 LoRa Alliance (enlaces importantes)
 - Especificación LoRaWAN [v1.0.2](https://lora-alliance.org/resource_hub/lorawan-specification-v1-0-2/) / [v1.0.3](https://lora-alliance.org/resource_hub/lorawan-specification-v1-0-3/) / [v1.0.4](https://lora-alliance.org/resource_hub/lorawan-104-specification-package/)
 - Parámetros regionales de LoRaWAN [v1.0.1](https://lora-alliance.org/resource_hub/rp2-101-lorawan-regional-parameters-2/) / [v1.0.2rB](https://lora-alliance.org/resource_hub/lorawan-regional-parameters-v1-0-2rb/) / [RP2-1.0.2](https://lora-alliance.org/resource_hub/rp2-102-lorawan-regional-parameters/) / [v1.0.3](https://lora-alliance.org/resource_hub/rp2-1-0-3-lorawan-regional-parameters/)
 - [Mapa de Operadores y cobertura de LoRaWAN](https://lora-alliance.org/lorawan-coverage/)
+
+``` ℹ️ Es una asociación abierta sin ánimo de lucro que tiene por objetivo estandarizar las LPWAN y promover la tecnología LoRaWAN.```
 
 ## 🏭 Plataformas IOT
 - [AdafruitIO](https://io.adafruit.com/)
@@ -61,9 +63,14 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 
 ## 👥 Comunidades The Things Network en España
 
-- [Mapa de las comunidades](https://www.thethingsnetwork.org/community) existentes para ponerse en contacto con ellas
+- [Mapa de las comunidades](https://www.thethingsnetwork.org/country/spain/) existentes
 
 ![TTN España](images/spain_ttn_communities.png)
+
+## Helium
+- [Mapa de cobertura mundial](https://explorer.helium.com/)
+- [Proyecto Mappers](https://mappers.helium.com/)
+    - [Documentación del proyecto](https://docs.helium.com/use-the-network/coverage-mapping/)
 
 ## 📱 Lista de canales (no oficiales) de Telegram
 
