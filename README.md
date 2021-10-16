@@ -61,7 +61,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 
 - [Mapa de las comunidades](https://www.thethingsnetwork.org/community) existentes para ponerse en contacto con ellas
 
-![TTN España](images\spain_ttn_communities.png)
+![TTN España](images/spain_ttn_communities.png)
 
 ## Lista de canales (no oficiales) de Telegram
 
