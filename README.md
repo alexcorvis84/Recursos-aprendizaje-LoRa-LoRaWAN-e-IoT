@@ -57,22 +57,22 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 ## Open-source LoRaWAN Network Server Stack 
 - [ChirpStack](https://www.chirpstack.io/) de [Orne Brocaar](https://twitter.com/brocaar)
 
-## Comunidades The Things Network en España
+## 👥 Comunidades The Things Network en España :es:
 
 - [Mapa de las comunidades](https://www.thethingsnetwork.org/community) existentes para ponerse en contacto con ellas
 
 ![TTN España](images/spain_ttn_communities.png)
 
-## Lista de canales (no oficiales) de Telegram
+## 📱 Lista de canales (no oficiales) de Telegram
 
 ### The Things Network
 - [Grupo sobre comunicaciones LoRa/LoRaWAN](https://t.me/LoRa_LoRaWAN)
 - [Grupo comunidades TTN](https://t.me/joinchat/STaRI2m7iLhq3Rel)
 
-### Helium
+### Helium (The Peoples Network)
 - [Grupo abierto de Helium España](https://t.me/heliumespana)
 
-## Fabricantes "Maker" con placas de desarrollo LoRa/LoRaWAN
+## 👷 Fabricantes "Maker" con placas de desarrollo LoRa/LoRaWAN
 - [Heltec Automation](https://heltec.org/proudct_center/lora/)
 - [LilyGo](http://www.lilygo.cn/products.aspx?TypeId=50060&FId=t3:50060:3)
 - [Rak Wireless](https://www.rakwireless.com/en-us)
