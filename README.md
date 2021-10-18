@@ -93,9 +93,9 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 
 ## 📚 Librerías que implementan el stack LoRa/LoRaWAN
 ### Más utilizadas
-- [Arduino-LMIC library](https://github.com/matthijskooijman/arduino-lmic) (No longer maintained‼️) 
+- [Arduino-LMIC library](https://github.com/matthijskooijman/arduino-lmic) (Ya no se mantiene‼️) 
     - ` ℹ️ Esta versión se debe considerar para cuando se tiene restricciones muy estrictas en memoria RAM o flash `
-- [MCCI LoRaWAN LMIC](https://github.com/mcci-catena/arduino-lmic) (Maintained, up to date)
+- [MCCI LoRaWAN LMIC](https://github.com/mcci-catena/arduino-lmic) (Mantenida, la más actualizada a la fecha)
     - ` ℹ️ Librería basada en Arduino-LMIC pero que ha experimentado muchas mejoras a lo largo de los años, tiene una documentación mucho mejor y es principalmente un reemplazo directo `
 - [LacunaSpace Basicmac](https://github.com/LacunaSpace/basicmac)
 ### Visión general de las librerías disponibles
