@@ -93,9 +93,9 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 
 ## 📚 Librerías que implementan el stack LoRa/LoRaWAN
 ### Más utilizadas
-- [Arduino-LMIC library](https://github.com/matthijskooijman/arduino-lmic) (Ya no se mantiene‼️) 
+- [Arduino-LMIC library](https://github.com/matthijskooijman/arduino-lmic) (⚠️Ya no se mantiene‼️) 
     - ` ℹ️ Esta versión se debe considerar para cuando se tiene restricciones muy estrictas en memoria RAM o flash `
-- [MCCI LoRaWAN LMIC](https://github.com/mcci-catena/arduino-lmic) (Mantenida, la más actualizada a la fecha)
+- [MCCI LoRaWAN LMIC](https://github.com/mcci-catena/arduino-lmic) (Mantenida, la más actualizada a la fecha 🔝)
     - ` ℹ️ Librería basada en Arduino-LMIC pero que ha experimentado muchas mejoras a lo largo de los años, tiene una documentación mucho mejor y es principalmente un reemplazo directo `
 - [LacunaSpace Basicmac](https://github.com/LacunaSpace/basicmac)
 ### Visión general de las librerías disponibles
@@ -115,6 +115,13 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
     - [Tracker basado en RAK4631](https://github.com/arkieguy/RAK4631-Helium-Mapper)
 - Tracker basado en Seedstudio Wio Terminal
     - [Disk91](https://github.com/disk91/WioLoRaWANFieldTester#wio-terminal-lorawan-field-tester)
+
+## 👤🌐 Blogs /Webs sobre Internet Of Things
+- 👤 [Stacey On IoT](https://staceyoniot.com/) de [Stacey Higginbotham](https://twitter.com/gigastacey)
+- 👤 [Disk91](https://www.disk91.com/) de [Paul Pinault](https://twitter.com/disk_91)
+- 🌐 [IoT for all](https://www.iotforall.com/)
+- 🌐 [IoT Tech News](https://iottechnews.com/)
+- 🌐 [IoT Business News](https://iotbusinessnews.com/)
 
 ## 🎰 BONUS: ℹ️ Repositorios con + información interesante
 - [Recursos del Grupo: Comunicaciones LoRa de larga distancia](https://github.com/G4lile0/Comunicaciones_LoRa)
