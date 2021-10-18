@@ -122,6 +122,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - 🌐 [IoT for all](https://www.iotforall.com/)
 - 🌐 [IoT Tech News](https://iottechnews.com/)
 - 🌐 [IoT Business News](https://iotbusinessnews.com/)
+- 🌐 [IoT-Now](https://www.iot-now.com/)
 
 ## 🎰 BONUS: ℹ️ Repositorios con + información interesante
 - [Recursos del Grupo: Comunicaciones LoRa de larga distancia](https://github.com/G4lile0/Comunicaciones_LoRa)
