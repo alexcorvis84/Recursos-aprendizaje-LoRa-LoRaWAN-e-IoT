@@ -87,6 +87,9 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [Heltec Automation](https://heltec.org/proudct_center/lora/)
 - [LilyGo](http://www.lilygo.cn/products.aspx?TypeId=50060&FId=t3:50060:3)
 - [Rak Wireless](https://www.rakwireless.com/en-us)
+- [Adafruit](https://www.adafruit.com/?q=lora&sort=BestMatch)
+- [SeeedStudio](https://www.seeedstudio.com/lora-solution.html)
+- [Sparkfun](https://www.sparkfun.com/search/results?term=lora)
 
 ## 📚 Librerías que implementan el stack LoRa/LoRaWAN
 ### Más utilizadas
