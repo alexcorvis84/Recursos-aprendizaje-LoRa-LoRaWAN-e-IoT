@@ -90,6 +90,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [Adafruit](https://www.adafruit.com/?q=lora&sort=BestMatch)
 - [SeeedStudio](https://www.seeedstudio.com/lora-solution.html)
 - [Sparkfun](https://www.sparkfun.com/search/results?term=lora)
+- [PyCom](https://pycom.io/products/supported-networks/#lora) (Programable en MicroPyhton 🐍)
 
 ## 📚 Librerías que implementan el stack LoRa/LoRaWAN
 ### Más utilizadas
@@ -116,7 +117,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - Tracker basado en Seedstudio Wio Terminal
     - [Disk91](https://github.com/disk91/WioLoRaWANFieldTester#wio-terminal-lorawan-field-tester)
 
-## 👤🌐 Blogs /Webs sobre Internet Of Things
+## 👤 Blogs / 🌐 Webs sobre Internet Of Things
 - 👤 [Stacey On IoT](https://staceyoniot.com/) de [Stacey Higginbotham](https://twitter.com/gigastacey)
 - 👤 [Disk91](https://www.disk91.com/) de [Paul Pinault](https://twitter.com/disk_91)
 - 🌐 [IoT for all](https://www.iotforall.com/)
@@ -125,5 +126,5 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - 🌐 [IoT-Now](https://www.iot-now.com/)
 
 ## 🎰 BONUS: ℹ️ Repositorios con + información interesante
-- [Recursos del Grupo: Comunicaciones LoRa de larga distancia](https://github.com/G4lile0/Comunicaciones_LoRa)
-- [Awesome LoRa & LoRaWAN](https://github.com/mcicolella/awesome-lora-lorawan)
+- [📓 Recursos del Grupo: Comunicaciones LoRa de larga distancia](https://github.com/G4lile0/Comunicaciones_LoRa)
+- [😎 Awesome LoRa & LoRaWAN](https://github.com/mcicolella/awesome-lora-lorawan)
