@@ -15,6 +15,10 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 
 ![Electronic Cats: LoRa & LoRaWAN](images/curso_lora_lorawan-electronic_cats.png)
 
+- 🇬🇧 [Arduino: LPWAN (Low Power Wide Area Networks)](https://docs.arduino.cc/foundations/wireless/low-power-wide-area-networks-101): aprende los fundamentos de las redes de área amplia y bajo consumo (LPWAN) y qué hardware Arduino se puede conectar a ellas.
+
+![Arduino LPWAN](images/arduino_lpwan.png)
+
 ## 🎞️ Vídeos
 - 🇬🇧 Lista de reproducción sobre LoRa/LoRaWAN de [Mobilefish.com](https://www.youtube.com/watch?v=cUhAyyzlv2o&list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g) creada por [Robert Lie](https://twitter.com/mobilefish]) 
 - 🇬🇧 [LoRa Crash Course](https://youtu.be/T3dGLqZrjIQ) de [Thomas Telkamp](https://twitter.com/telkamp)
