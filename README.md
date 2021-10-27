@@ -27,8 +27,8 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - 🇬🇧 The Things Conference [2018](https://www.youtube.com/watch?v=koX_1Zw3HoE&list=PLM8eOeiKY7JUhIyxWWU2-qziejDbBg-pf), [2019](https://www.youtube.com/watch?v=HJFkV8qqhr4&list=PLM8eOeiKY7JWtuWPoTPxYjkvgOZZ81vkb), [2020](https://www.youtube.com/watch?v=ThYilMcrYp8&list=PLM8eOeiKY7JV5KMwomW4cJrKB42ItPyey), [2021](https://www.youtube.com/watch?v=ZsVhYiX4_6o&list=PLM8eOeiKY7JUPeu23SJ3TPY9BfagiBFIT)
 
 ## Redes LoRaWAN comunitarias abiertas más conocidas
-- [The Things Network](https://www.thethingsnetwork.org/) ([coverage map](https://ttnmapper.org/heatmap/))
-- [Helium - The People's Network](https://www.helium.com/)
+- [The Things Network](https://www.thethingsnetwork.org/) ([mapa de cobertura](https://ttnmapper.org/heatmap/))
+- [Helium - The People's Network](https://www.helium.com/) ([mapa de cobertura](https://explorer.helium.com/coverage))
 - [LORIOT](https://www.loriot.io/)
 
 ## LoRa Alliance (enlaces importantes)
