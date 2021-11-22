@@ -122,6 +122,11 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - Tracker basado en Seedstudio Wio Terminal
     - [Disk91](https://github.com/disk91/WioLoRaWANFieldTester#wio-terminal-lorawan-field-tester)
 
+## 🗺️ Mappers 📍 LoRaWAN Comerciales
+- [Adeunis FTD Network Tester](https://www.adeunis.com/en/produit/ftd-network-tester/)
+- [Glamos Walker](https://glamos.eu/product/walker/)
+- [Hardwario Tester](https://github.com/hardwario/twr-lora-tester)
+
 ## 👤 Blogs / 🌐 Webs sobre Internet Of Things
 - 👤 [Stacey On IoT](https://staceyoniot.com/) de [Stacey Higginbotham](https://twitter.com/gigastacey)
 - 👤 [Disk91](https://www.disk91.com/) de [Paul Pinault](https://twitter.com/disk_91)
