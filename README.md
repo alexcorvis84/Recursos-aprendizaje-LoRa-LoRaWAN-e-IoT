@@ -46,13 +46,16 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 ## 🏭 Plataformas IOT
 - [AdafruitIO](https://io.adafruit.com/)
 - [Akenza.io](https://akenza.io/)
-- [Arduino IOT Cloud](https://create.arduino.cc/iot/things)
 - [Amazon AWS IoT](https://aws.amazon.com/es/iot/)
-- [Microsoft Azure IoT](https://azure.microsoft.com/es-es/overview/iot/#overview)
+- [Arduino IOT Cloud](https://create.arduino.cc/iot/things)
 - [Balena.io](https://www.balena.io/)
 - [Cayenne MyDevice](https://mydevices.com/platform/)
 - [Datacake](https://datacake.co/)
+- [Drogue IoT](https://www.drogue.io/)
 - [Losant](https://www.losant.com/)
+- [Mainflux](https://mainflux.com/)
+- [Microsoft Azure IoT](https://azure.microsoft.com/es-es/overview/iot/#overview)
+- [Openremote](https://openremote.io/)
 - [TagoIO](https://tago.io/)
 - [TheThings.io](https://thethings.io/)
 - [Thinger.io](https://thinger.io/)
@@ -67,6 +70,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 
 ## 🖥️ Open-source LoRaWAN Network Server Stack 
 - [ChirpStack](https://www.chirpstack.io/) de [Orne Brocaar](https://twitter.com/brocaar)
+- [The Things Stack](https://github.com/TheThingsNetwork/lorawan-stack)
 
 ## 👥 Comunidades The Things Network en España
 
@@ -111,6 +115,9 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - Trackers compatibles con la placa TTGo T-Beam
     - [Kizniche](https://github.com/kizniche/ttgo-tbeam-ttn-tracker)
     - [Hottimuc](https://github.com/hottimuc/Lora-TTNMapper-T-Beam)
+    - [tmiklas](https://github.com/tmiklas/tbeam-helium-mapper)
+    - [Max-Plastix](https://github.com/Max-Plastix/tbeam-helium-mapper)
+    - [MichaelEFlip](https://github.com/MichaelEFlip/Lora-TTNMapper-T-Beam)
 - Trackers compatibles con la placa Heltec CubeCell GPS-6502
     - [Hkicko](https://github.com/hkicko/CubeCell-GPS-Helium-Mapper)
     - [Tekk](https://github.com/tekk/TTGO-T-Beam-Car-Tracker)
@@ -121,6 +128,8 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
     - [Tracker basado en RAK4631](https://github.com/arkieguy/RAK4631-Helium-Mapper)
 - Tracker basado en Seedstudio Wio Terminal
     - [Disk91](https://github.com/disk91/WioLoRaWANFieldTester#wio-terminal-lorawan-field-tester)
+- Sketchs para resetear el GPS (⚠️necesario cuando vienen precargadas con el proyecto meshtastic.org)
+    - [TTGo T-Beam Reset GPS NMEA](https://github.com/eriktheV-king/TTGO_T-beam_GPS-reset)
 
 ## 🗺️ Mappers 📍 LoRaWAN Comerciales
 - [Adeunis FTD Network Tester](https://www.adeunis.com/en/produit/ftd-network-tester/)
