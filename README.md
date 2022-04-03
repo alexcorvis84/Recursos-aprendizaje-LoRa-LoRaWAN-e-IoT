@@ -67,7 +67,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [ThingSpeak](https://thingspeak.com/)
 - [Ubidots](https://ubidots.com/)
 
-## ⏲️ Calculadoras LoRaWAN para el Cálculo de Tiempo en Aire (Time On Air) de los mensajes Uplink/Downlink 📤📥
+## ⏲️ Calculadoras LoRaWAN para el Cálculo del Tiempo en Aire (Time On Air) de los mensajes Uplink/Downlink 📤📥
 - [Airtime-calculator](https://avbentem.github.io/airtime-calculator/ttn/eu868) de [Arjan](https://github.com/avbentem)
 - [The Things Network](https://www.thethingsnetwork.org/airtime-calculator)
 - [RF Wireless World](https://www.rfwireless-world.com/calculators/LoRaWAN-Airtime-calculator.html)
@@ -113,7 +113,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [MCCI LoRaWAN LMIC](https://github.com/mcci-catena/arduino-lmic) (Mantenida, la más actualizada a la fecha 🔝)
     - ` ℹ️ Librería basada en Arduino-LMIC pero que ha experimentado muchas mejoras a lo largo de los años, tiene una documentación mucho mejor y es principalmente un reemplazo directo `
 - [CubeCell series LoRaWAN-Node stack](https://github.com/HelTecAutomation/CubeCell-Arduino)
-    - ` ℹ️ Librería preparada para trabajar con las placas Heltec CubeCell. Es una migración de LoRaMac-node V4.4.0, basada en la "Especificación LoRaWAN 1.0.2" y "LoRaWAN Regional Parameters v1.0.2rB`
+    - ` ℹ️ Librería preparada para trabajar con las placas Heltec CubeCell. Es una migración de LoRaMac-node V4.4.0, basada en la "Especificación LoRaWAN 1.0.2" y "LoRaWAN Regional Parameters v1.0.2rB"`
 - [LacunaSpace Basicmac](https://github.com/LacunaSpace/basicmac)
 ### Visión general de las librerías disponibles
 - [Overview of LoRaWAN Libraries](https://www.thethingsnetwork.org/forum/t/overview-of-lorawan-libraries-howto/24692)
