@@ -31,10 +31,14 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - 🇬🇧 The Things Conference [2018](https://www.youtube.com/watch?v=koX_1Zw3HoE&list=PLM8eOeiKY7JUhIyxWWU2-qziejDbBg-pf), [2019](https://www.youtube.com/watch?v=HJFkV8qqhr4&list=PLM8eOeiKY7JWtuWPoTPxYjkvgOZZ81vkb), [2020](https://www.youtube.com/watch?v=ThYilMcrYp8&list=PLM8eOeiKY7JV5KMwomW4cJrKB42ItPyey), [2021](https://www.youtube.com/watch?v=ZsVhYiX4_6o&list=PLM8eOeiKY7JUPeu23SJ3TPY9BfagiBFIT)
 - 🇪🇸 Lista de reproducción sobre LoRa/LoraWAN de [domoticadavinci.com](https://www.youtube.com/playlist?list=PLBqujdNWEYyOhbqZyKDLRooV0BepVUS10) creada por [Domótica DaVinci](https://twitter.com/domoticadavinci)
 
-## 📡 Redes LoRaWAN comunitarias abiertas más conocidas
+## 📡 Redes LoRaWAN comunitarias 👥
 - [The Things Network](https://www.thethingsnetwork.org/)
 - [Helium - The People's Network](https://www.helium.com/)
-- [LORIOT](https://www.loriot.io/)
+
+## 🖥️🔀 LoRaWAN Network Servers
+ - [The Things Stack](https://www.thethingsindustries.com/stack/)
+ - [Actility's ThingPark Community](https://community.thingpark.org/)
+ - [LORIOT](https://www.loriot.io/)
 
 ## 📡 LoRa Alliance (enlaces importantes)
 - Especificación LoRaWAN [v1.0.2](https://lora-alliance.org/resource_hub/lorawan-specification-v1-0-2/) / [v1.0.3](https://lora-alliance.org/resource_hub/lorawan-specification-v1-0-3/) / [v1.0.4](https://lora-alliance.org/resource_hub/lorawan-104-specification-package/)
@@ -46,13 +50,16 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 ## 🏭 Plataformas IOT
 - [AdafruitIO](https://io.adafruit.com/)
 - [Akenza.io](https://akenza.io/)
-- [Arduino IOT Cloud](https://create.arduino.cc/iot/things)
 - [Amazon AWS IoT](https://aws.amazon.com/es/iot/)
-- [Microsoft Azure IoT](https://azure.microsoft.com/es-es/overview/iot/#overview)
+- [Arduino IOT Cloud](https://create.arduino.cc/iot/things)
 - [Balena.io](https://www.balena.io/)
 - [Cayenne MyDevice](https://mydevices.com/platform/)
 - [Datacake](https://datacake.co/)
+- [Drogue IoT](https://www.drogue.io/)
 - [Losant](https://www.losant.com/)
+- [Mainflux](https://mainflux.com/)
+- [Microsoft Azure IoT](https://azure.microsoft.com/es-es/overview/iot/#overview)
+- [Openremote](https://openremote.io/)
 - [TagoIO](https://tago.io/)
 - [TheThings.io](https://thethings.io/)
 - [Thinger.io](https://thinger.io/)
@@ -60,13 +67,15 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [ThingSpeak](https://thingspeak.com/)
 - [Ubidots](https://ubidots.com/)
 
-## 🖩 Calculadoras LoRaWAN para cálculo de tiempo en aire
+## ⏲️ Calculadoras LoRaWAN para el Cálculo de Tiempo en Aire (Time On Air) de los mensajes Uplink/Downlink 📤📥
 - [Airtime-calculator](https://avbentem.github.io/airtime-calculator/ttn/eu868) de [Arjan](https://github.com/avbentem)
 - [The Things Network](https://www.thethingsnetwork.org/airtime-calculator)
 - [RF Wireless World](https://www.rfwireless-world.com/calculators/LoRaWAN-Airtime-calculator.html)
 
 ## 🖥️ Open-source LoRaWAN Network Server Stack 
 - [ChirpStack](https://www.chirpstack.io/) de [Orne Brocaar](https://twitter.com/brocaar)
+- [The Things Stack](https://github.com/TheThingsNetwork/lorawan-stack)
+  - [Información ℹ️](TheThingsStack.md)
 
 ## 👥 Comunidades The Things Network en España
 
@@ -86,7 +95,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [Grupo comunidades TTN](https://t.me/joinchat/STaRI2m7iLhq3Rel)
 
 ### Helium (The Peoples Network)
-- [Grupo abierto de Helium España](https://t.me/heliumespana)
+- [Grupo abierto de Helium España 🇪🇸](https://t.me/heliumespana)
 
 ## 👷 Fabricantes "Maker" con placas de desarrollo LoRa/LoRaWAN
 - [Heltec Automation](https://heltec.org/proudct_center/lora/)
@@ -103,6 +112,8 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
     - ` ℹ️ Esta versión se debe considerar para cuando se tiene restricciones muy estrictas en memoria RAM o flash `
 - [MCCI LoRaWAN LMIC](https://github.com/mcci-catena/arduino-lmic) (Mantenida, la más actualizada a la fecha 🔝)
     - ` ℹ️ Librería basada en Arduino-LMIC pero que ha experimentado muchas mejoras a lo largo de los años, tiene una documentación mucho mejor y es principalmente un reemplazo directo `
+- [CubeCell series LoRaWAN-Node stack](https://github.com/HelTecAutomation/CubeCell-Arduino)
+    - ` ℹ️ Librería preparada para trabajar con las placas Heltec CubeCell. Es una migración de LoRaMac-node V4.4.0, basada en la "Especificación LoRaWAN 1.0.2" y "LoRaWAN Regional Parameters v1.0.2rB`
 - [LacunaSpace Basicmac](https://github.com/LacunaSpace/basicmac)
 ### Visión general de las librerías disponibles
 - [Overview of LoRaWAN Libraries](https://www.thethingsnetwork.org/forum/t/overview-of-lorawan-libraries-howto/24692)
@@ -111,6 +122,9 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - Trackers compatibles con la placa TTGo T-Beam
     - [Kizniche](https://github.com/kizniche/ttgo-tbeam-ttn-tracker)
     - [Hottimuc](https://github.com/hottimuc/Lora-TTNMapper-T-Beam)
+    - [tmiklas](https://github.com/tmiklas/tbeam-helium-mapper)
+    - [Max-Plastix](https://github.com/Max-Plastix/tbeam-helium-mapper)
+    - [MichaelEFlip](https://github.com/MichaelEFlip/Lora-TTNMapper-T-Beam)
 - Trackers compatibles con la placa Heltec CubeCell GPS-6502
     - [Hkicko](https://github.com/hkicko/CubeCell-GPS-Helium-Mapper)
     - [Tekk](https://github.com/tekk/TTGO-T-Beam-Car-Tracker)
@@ -121,6 +135,13 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
     - [Tracker basado en RAK4631](https://github.com/arkieguy/RAK4631-Helium-Mapper)
 - Tracker basado en Seedstudio Wio Terminal
     - [Disk91](https://github.com/disk91/WioLoRaWANFieldTester#wio-terminal-lorawan-field-tester)
+- Sketchs para resetear el GPS (⚠️necesario cuando vienen precargadas con el proyecto meshtastic.org)
+    - [TTGo T-Beam Reset GPS NMEA](https://github.com/eriktheV-king/TTGO_T-beam_GPS-reset)
+
+## 🗺️ Mappers 📍 LoRaWAN Comerciales
+- [Adeunis FTD Network Tester](https://www.adeunis.com/en/produit/ftd-network-tester/)
+- [Glamos Walker](https://glamos.eu/product/walker/)
+- [Hardwario Tester](https://github.com/hardwario/twr-lora-tester)
 
 ## 👤 Blogs / 🌐 Webs sobre Internet Of Things
 - 👤 [Stacey On IoT](https://staceyoniot.com/) de [Stacey Higginbotham](https://twitter.com/gigastacey)
