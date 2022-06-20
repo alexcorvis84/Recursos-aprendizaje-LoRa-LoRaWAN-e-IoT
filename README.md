@@ -115,8 +115,14 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [CubeCell series LoRaWAN-Node stack](https://github.com/HelTecAutomation/CubeCell-Arduino)
     - ` ℹ️ Librería preparada para trabajar con las placas Heltec CubeCell. Es una migración de LoRaMac-node V4.4.0, basada en la "Especificación LoRaWAN 1.0.2" y "LoRaWAN Regional Parameters v1.0.2rB"`
 - [LacunaSpace Basicmac](https://github.com/LacunaSpace/basicmac)
+- [Disk91 LoRaE5](https://github.com/disk91/Disk91_LoRaE5) (Módulo basado en el STM32WLE5JC y fabricado por [Seedstudio](https://wiki.seeedstudio.com/LoRa-E5_STM32WLE5JC_Module/)) 
+    - ` ℹ️ Librería de Arduino que facilita el desarrollo para el módulo LoRaWAN LoRaE5`
 ### Visión general de las librerías disponibles
 - [Overview of LoRaWAN Libraries](https://www.thethingsnetwork.org/forum/t/overview-of-lorawan-libraries-howto/24692)
+
+## 🗺️ Webs + Proyectos DIY para iniciarse con LoRaWAN
+- [Mobilefish.com](https://www.mobilefish.com/developer/lorawan/lorawan_quickguide_build_lora_gateway.html) LoRaWAN Quick Guides
+- [Arduino Pro Mini TTN LoRaWAN sensor node](https://github.com/JackGruber/Arduino-Pro-Mini-LoRa-Sensor-Node) by [JackGruber](https://twitter.com/gruberjack)
 
 ## 🗺️ Proyectos DIY de Mappers 📍 LoRaWAN
 - Trackers compatibles con la placa TTGo T-Beam
@@ -151,6 +157,12 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - 🌐 [IoT Business News](https://iotbusinessnews.com/)
 - 🌐 [IoT-Now](https://www.iot-now.com/)
 
+## 📚 Libros sobre LPWAN/LoRaWAN
+- 🇩🇪 [LoRaWAN-Knoten im IoT: Fertige und selbst aufgebaute Arduino-Knoten im TTN](https://www.elektor.de/lorawan-knoten-im-iot)
+- 🇬🇧 [LPWAN Technologies for IoT and M2M Applications](https://www.amazon.es/LPWAN-Technologies-IoT-M2M-Applications/dp/0128188804/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=JBM113RL33N6&keywords=lpwan+technologies&qid=1640080285&sprefix=lpwan+technologies%2Caps%2C61&sr=8-2)
+- 🇬🇧 [Beginning LoRa Radio Networks with Arduino](https://www.amazon.es/Beginning-LoRa-Radio-Networks-Arduino/dp/1484243560/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=33INTGZYXNN5F&keywords=Beginning+LoRa+Radio+Networks+with+Arduino%3A+Build+Long+Range%2C+Low+Power+Wireless+IoT+Networks&qid=1640080842&sprefix=beginning+lora+radio+networks+with+arduino+build+long+range+low+power+wireless+iot+networks%2Caps%2C120&sr=8-1)
+- 🇮🇹 [Capire e usare LoRa e LoRaWAN. Creare una rete LoRaWAN per IoT](https://www.amazon.es/LoRaWAN-Progetto-dispositivo-ATmega328-Raspberry/dp/8869283232/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11XOINSR4HJ4N&keywords=Capire+e+usare+LoRa+e+LoRaWAN.+Creare+una+rete+LoRaWAN+per+IoT&qid=1640081729&sprefix=capire+e+usare+lora+e+lorawan.+creare+una+rete+lorawan+per+iot%2Caps%2C145&sr=8-1)
+- 🇫🇷 - 🇬🇧 [LoRa - LoRaWAN and Internet Of Things](https://www.univ-smb.fr/lorawan/en/free-book/) (**FREE** e-book + videos from Savoie Mont Blanc University)
 ## 🎰 BONUS: ℹ️ Repositorios con + información interesante
 - [📓 Recursos del Grupo: Comunicaciones LoRa de larga distancia](https://github.com/G4lile0/Comunicaciones_LoRa)
 - [😎 Awesome LoRa & LoRaWAN](https://github.com/mcicolella/awesome-lora-lorawan)
