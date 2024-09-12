@@ -15,7 +15,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 
 ![Electronic Cats: LoRa & LoRaWAN](images/curso_lora_lorawan-electronic_cats.png)
 
-- 🇬🇧 [Arduino: LPWAN (Low Power Wide Area Networks)](https://docs.arduino.cc/foundations/wireless/low-power-wide-area-networks-101): aprende los fundamentos de las redes de área amplia y bajo consumo (LPWAN) y qué hardware Arduino se puede conectar a ellas.
+- 🇬🇧 [Arduino: LPWAN (Low Power Wide Area Networks)](https://docs.arduino.cc/learn/communication/low-power-wide-area-networks-101): aprende los fundamentos de las redes de área amplia y bajo consumo (LPWAN) y qué hardware Arduino se puede conectar a ellas.
 
 ![Arduino LPWAN](images/arduino_lpwan.png)
 
