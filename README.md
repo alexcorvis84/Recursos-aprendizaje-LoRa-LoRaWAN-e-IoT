@@ -54,6 +54,7 @@ Este repositorio pretende listar todos aquellos recursos que vaya encontrando co
 - [Arduino IOT Cloud](https://create.arduino.cc/iot/things)
 - [Balena.io](https://www.balena.io/)
 - [Cayenne MyDevice](https://mydevices.com/platform/)
+- [Cloud Studio IoT](https://cloudstudioiot.com/es)
 - [Datacake](https://datacake.co/)
 - [Drogue IoT](https://www.drogue.io/)
 - [Losant](https://www.losant.com/)
